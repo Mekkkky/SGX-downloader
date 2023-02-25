@@ -1,0 +1,8 @@
+selenium
+yaml
+argparse
+python-dateutil
+requests
+pathlib
+numpy
+shutil
